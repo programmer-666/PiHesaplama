@@ -18,3 +18,7 @@
 <br>
 
 <img src="https://www.matematiktutkusu.com/forum/ekstra/matimage/matematiktutkusuaitkenc.jpg" width="400">
+<br>
+<h3>İlk formüle göre daha hızlı hesaplama yapılır.</h3>
+<hr>
+<h4>Konuyla ilgili kullandıpım kaynak : </h4><a href="https://matematiktutkusu.com/forum/matematik-arsivi/119-pi-sayisi-nasil-hesaplanir-hesaplama-formulleri-yontemleri.html">Pi sayısı nasıl hesaplanır ? [Hesaplama formülleri, yöntemleri]</a>
