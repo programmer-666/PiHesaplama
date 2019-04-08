@@ -1,6 +1,7 @@
 # Pi Sayısını Hesaplama
 
 <h3>Pi sayısını hesaplamada kullanılan ana formül</h3>
+<p>Yazılan program Pi'nin en doğru şekilde hesaplanmasına yöneliktir.Virgülden sonra ki basamaklarını hesaplayamazsınız.</p>
 <br> 
 <img width="350" src="https://www.matematiktutkusu.com/forum/ekstra/matimage/matematiktutkusuleibniz.jpg">
 <p>Bu formüle göre Pi'nin virgülden sonraki 3-4 basamağını elde etmek için yüzbinlerce iterasyon yapılmalıdır.</p>
